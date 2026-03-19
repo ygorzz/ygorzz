@@ -1,6 +1,6 @@
 # Olá, eu sou o Ygor! 👋
 
-### 🚀 Desenvolvedor Back-end em constante evolução | Node.js • Python • C • • JavaScript • SQL
+### 🚀 Desenvolvedor Back-end em constante evolução
 
 ---
 
