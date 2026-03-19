@@ -46,11 +46,6 @@ Desafio de Performance em C.
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
 ### 📫 Vamos conversar?
 - [LinkedIn](https://www.linkedin.com/in/ygor-santos-869152325/)
 - [santosygor2007@gmail.com]
