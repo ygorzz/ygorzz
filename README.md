@@ -1,8 +1,8 @@
 # Olá, eu sou o Ygor! 👋
 
-### 🚀 Desenvolvedor Back-end em constante evolução | Node.js • Python • SQL
+### 🚀 Desenvolvedor Back-end em constante evolução | Node.js • Python • C • • JavaScript • SQL
 
-Sou um desenvolvedor movido pela eficiência algorítmica e pela resolução de problemas complexos. Unindo o rigor técnico do **CS50 (Harvard)** com tecnologias modernas do mercado.
+Sou um desenvolvedor movido pela eficiência algorítmica e pela resolução de problemas complexos.
 
 ---
 
@@ -36,5 +36,3 @@ Sou um desenvolvedor movido pela eficiência algorítmica e pela resolução de 
 * 🎓 **CS50 Harvard** (2026) | **Técnico em Informática** (IFSULDEMINAS)
 * 📚 **Formação Node.js** – Alura (Em andamento)
 * 📫 [LinkedIn](https://www.linkedin.com/in/ygor-santos-869152325/) | [E-mail](mailto:santosygor2007@gmail.com)
-
----
