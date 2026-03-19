@@ -2,50 +2,39 @@
 
 ### 🚀 Desenvolvedor Back-end em constante evolução | Node.js • Python • SQL
 
-Sou um desenvolvedor movido pela resolução de problemas complexos e pela eficiência algorítmica. Minha trajetória une o rigor técnico da **Ciência da Computação (Harvard)** e o desenvolvimento de projetos práticos. 
-
-Atualmente, estou imerso no ecossistema **Node.js** pela Alura, transicionando de uma base sólida em Python e C para a construção de APIs escaláveis e robustas.
+Sou um desenvolvedor movido pela eficiência algorítmica e pela resolução de problemas complexos. Unindo o rigor técnico do **CS50 (Harvard)** com tecnologias modernas do mercado.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack & Ferramentas
 
-- **Linguagens:** JavaScript (ES6+), TypeScript, Python, C.
-- **Back-end:** Node.js (em foco), Flask, SQLite.
-- **Front-end:** HTML5, CSS3, Bootstrap 5, DOM Manipulation.
-- **Inovação & Produtividade:** Vibe Coding, Engenharia de Prompt, Agentes de IA.
-- **Fundamentos:** Estruturas de Dados, Algoritmos, Alocaçao Dinâmica de Memória, Segurança (Prevenção de SQL Injection).
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `JavaScript (ES6+)` `TypeScript` `Python` `C` |
+| **Back-end** | `Node.js (Em foco)` `Flask` `SQL (SQLite)` |
+| **Front-end** | `JavaScript` `HTML5/CSS3` `Bootstrap 5` `DOM Manipulation` |
+| **IA & Produtividade** | `Vibe Coding` `Engenharia de Prompt` |
+| **Fundamentos** | `Estruturas de Dados` `Algoritmos` `Alocação Dinãmica de Memória` `Segurança (SQL Injection)` |
 
 ---
 
 ### 📂 Projetos em Destaque
 
-#### 💰 [FinanceApp](https://github.com/ygorzz/projeto-finance-app)
-**Projeto Final - CS50 Harvard**
-Aplicação Full Stack de gestão financeira pessoal.
-- **Stack:** Python (Flask), SQLite, Bootstrap 5, JavaScript.
-- **Destaque:** Implementação de lógica de negócios complexa e interface responsiva, garantindo segurança e integridade de dados.
+#### 💰 [FinanceApp](https://github.com/ygorzz/projeto-finance-app) | **CS50 Harvard**
+> Gestão financeira Full Stack com Flask e SQLite. Foco em lógica de negócios e segurança de dados.
 
-#### 🏥 [Sistema de Gestão para Clínicas](https://github.com/ygorzz/clinica-estetica-app)
-**Projeto de Estágio & Vibe Coding**
-Sistema para gerenciamento de clínicas com foco em agendamentos.
-- **Stack:** Adonis.js, TypeScript, Vue.js, Docker, Docker Compose, PostgreSQL, n8n.
-- **Destaque:** Exploração do potencial do *Vibe Coding* para acelerar o ciclo de desenvolvimento e integração de um agente de IA via WhatsApp para atendimento automatizado.
+#### 🏥 [Sistema de Gestão para Clínicas](https://github.com/ygorzz/clinica-estetica-app) | **Vibe Coding**
+> Sistema para gerenciamento de clínicas com foco em agendamentos. AdonisJS e Vue.js. Prototipagem acelerada por IA.
 
-#### ⚡ [Speller](https://github.com/ygorzz/exercicios-cs50-harvard/tree/main/5_estrutura_de_dados/speller)
-**Desafio - CS50 Harvard**
-Desafio de Performance em C.
-- **Destaque:** Corretor ortográfico de alta performance utilizando **Hash Tables (DJB2)**, alcançando o tempo de execução de **0.06s**.
+#### ⚡ [Speller](https://github.com/ygorzz/exercicios-cs50-harvard/tree/main/5_estrutura_de_dados/speller) | **Performance em C**
+> Corretor ortográfico utilizando **Hash Tables (DJB2)**. Tempo de execução: **0.06s**.
 
 ---
 
-### 🎓 Formação
-- **CS50's Introduction to Computer Science** – Harvard University (2026)
-- **Técnico em Informática** – IFSULDEMINAS
-- **Formação Node.js** – Alura (Em andamento)
+### 🎓 Formação & Contato
+
+* 🎓 **CS50 Harvard** (2026) | **Técnico em Informática** (IFSULDEMINAS)
+* 📚 **Formação Node.js** – Alura (Em andamento)
+* 📫 [LinkedIn](https://www.linkedin.com/in/ygor-santos-869152325/) | [E-mail](mailto:santosygor2007@gmail.com)
 
 ---
-
-### 📫 Vamos conversar?
-- [LinkedIn](https://www.linkedin.com/in/ygor-santos-869152325/)
-- [santosygor2007@gmail.com]
