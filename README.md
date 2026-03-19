@@ -2,8 +2,6 @@
 
 ### 🚀 Desenvolvedor Back-end em constante evolução | Node.js • Python • C • • JavaScript • SQL
 
-Sou um desenvolvedor movido pela eficiência algorítmica e pela resolução de problemas complexos.
-
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
