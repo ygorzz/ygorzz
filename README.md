@@ -1,6 +1,7 @@
 # Olá, eu sou o Ygor! 👋
 
-### 🚀 Desenvolvedor Back-end em constante evolução
+## 🚀 Sobre Mim
+Desenvolvedor Back-end com base sólida em Ciência da Computação. Recentemente, consolidei projetos Full Stack com Python e Flask, e agora estou mergulhando profundamente no ecossistema Node.js.
 
 ---
 
