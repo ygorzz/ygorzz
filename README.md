@@ -1,8 +1,10 @@
-# Olá, eu sou o Ygor! 👋
+# Hi, I'm Ygor! 👋
 
-## Sobre Mim 🧑‍💻
-Desenvolvedor 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 em transição para o ecossistema Node.js, graduado pelo 𝗖𝗦𝟱𝟬 𝗱𝗲 𝗛𝗮𝗿𝘃𝗮𝗿𝗱 e Técnico em Informática pelo 𝗜𝗙𝗦𝗨𝗟𝗗𝗘𝗠𝗜𝗡𝗔𝗦.
+## About me 🧑‍💻
+Back-end Developer focused on Node.js, graduated from Harvard's CS50 and certified as an IT Technician by IFSULDEMINAS. My background combines strong Computer Science fundamentals with practical experience in building modern web applications and APIs.
 
-Com uma base sólida construída em 𝗖, 𝗣𝘆𝘁𝗵𝗼𝗻 𝗲 𝗦𝗤𝗟, desenvolvi uma visão analítica sobre o que acontece "sob o capô" do software. Essa experiência me permite transitar entre tecnologias com agilidade, priorizando sempre a eficiência algorítmica, o código limpo e a segurança.
+I have experience developing REST APIs using Node.js, Express, and MongoDB, applying concepts such as layered architecture, complete CRUD operations, pagination, dynamic filters, parameterized queries, centralized error handling, and data validation.
+
+Throughout my studies, I built a solid foundation in algorithms, data structures, SQL, and low-level programming through Harvard's CS50, which gave me an analytical understanding of performance, code organization, security, and how applications work under the hood.
 
 
