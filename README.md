@@ -12,9 +12,6 @@ Building scalable web applications, REST APIs and cloud-based solutions.
   <a href="https://github.com/ygorzz">
     <img src="https://komarev.com/ghpvc/?username=ygorzz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/ygorzz?tab=followers">
-    <img src="https://img.shields.io/github/followers/ygorzz?label=Followers&style=social" alt="Followers"/>
-  </a>
 </p>
 
 ---
