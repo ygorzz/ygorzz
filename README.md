@@ -8,12 +8,6 @@ Full Stack Developer focused on Back-end • Node.js • TypeScript • React
 Building scalable web applications, REST APIs and cloud-based solutions.
 </p>
 
-<p align="center">
-  <a href="https://github.com/ygorzz">
-    <img src="https://komarev.com/ghpvc/?username=ygorzz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
