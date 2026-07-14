@@ -111,5 +111,5 @@ Command-line applications built with **Node.js** and **Commander.js**.
 ## 📫 Connect with Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/ygor-santos-869152325/
-* 📧 Email: *(your email)*
+* 📧 Email: santosygor2007@gmail.com
 * 💻 GitHub: https://github.com/ygorzz
